@@ -1,0 +1,11 @@
+Package: LungCancerLines
+Type: Package
+Title: Reads from Two Lung Cancer Cell Lines
+Version: 0.0.3
+Author: Cory Barr, Michael Lawrence
+Maintainer: Cory Barr <barr.cory@gene.com>
+Description: Reads from an RNA-seq experiment between two lung cancer
+             cell lines: H1993 (met) and H2073 (primary).
+             The reads are stored as Fastq files and are meant for use with
+             the TP53Genome object in the gmapR package.
+License: Artistic-2.0
