@@ -1,7 +1,7 @@
 Package: LungCancerLines
 Type: Package
 Title: Reads from Two Lung Cancer Cell Lines
-Version: 0.0.7
+Version: 0.0.8
 Author: Cory Barr, Michael Lawrence
 Maintainer: Cory Barr <barr.cory@gene.com>
 Imports: Rsamtools
