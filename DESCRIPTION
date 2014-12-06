@@ -1,7 +1,7 @@
 Package: LungCancerLines
 Type: Package
 Title: Reads from Two Lung Cancer Cell Lines
-Version: 0.5.0
+Version: 0.5.1
 Author: Cory Barr, Michael Lawrence
 Maintainer: Cory Barr <barr.cory@gene.com>
 Imports: Rsamtools
@@ -10,3 +10,5 @@ Description: Reads from an RNA-seq experiment between two lung cancer
              The reads are stored as Fastq files and are meant for use with
              the TP53Genome object in the gmapR package.
 License: Artistic-2.0
+biocViews: ExperimentData, Genome, CancerData, LungCancerData,
+        RNASeqData
